@@ -1,0 +1,50 @@
+/* Elementos pagina */
+* {
+    margin: 4px;
+    padding: 4px;
+}
+
+/* Elementos titulo */
+#titulo {
+    font-family: sans-serif;
+    color: #59429d;
+    text-align: center;
+} 
+/* Elementos campo" */
+.campo{
+    background-color: #F0F8FF;
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #59429d;
+    margin-left: 30%;
+    margin-top: 2%;
+    
+}
+
+/* Elementos campo */
+.campo {
+    margin-bottom: 1em;
+}
+
+/* Elementos campo de tag <label> */
+.campo label {
+    margin-bottom: 0.2em;
+    color: #59429d;
+    display: block;
+
+}
+
+
+fieldset {
+  margin: 1px auto 1px auto;
+  border: solid #cecdcd 2px;
+  background-color: rgba(215, 233, 233, 0.514);
+  text-align: left;
+}
+
+
+
+div {
+  display: flex;
+  align-items: center;
+}
